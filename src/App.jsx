@@ -11,7 +11,7 @@ function App() {
       <SocialLinks />
 
       <Routes>
-        <Route path="/portfolio" element={<HomePage />} />
+        <Route path="/" element={<HomePage />} />
       </Routes>
 
       <GeneralFooter />
