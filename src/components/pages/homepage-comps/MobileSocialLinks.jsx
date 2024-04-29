@@ -39,7 +39,7 @@ const MobileSocialLinks = () => {
           <BsFillPersonLinesFill size={20} /> Resume
         </>
       ),
-      href: "/resume.pdf",
+      href: "resume.pdf",
       style: "rounded-br-md",
       download: true,
     },
